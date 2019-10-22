@@ -1,0 +1,31 @@
+timeStamp	elapsed	label	responseCode	responseMessage	threadName	dataType	success	failureMessage	bytes	sentBytes	grpThreads	allThreads	URL	Latency	IdleTime	Connect
+1570822844867	149	HTTP Request	200	OK	Thread Group 1-1	text	true		13118	232	1	1	http://www.google.com/	91	0	64
+1570822844867	91	HTTP Request-0	301	Moved Permanently	Thread Group 1-1	text	true		528	114	1	1	http://google.com/	91	0	64
+1570822844960	56	HTTP Request-1	200	OK	Thread Group 1-1	text	true		12590	118	1	1	http://www.google.com/	55	0	3
+1570822845026	94	HTTP Request	200	OK	Thread Group 1-1	text	true		13118	232	1	1	http://www.google.com/	48	0	3
+1570822845026	48	HTTP Request-0	301	Moved Permanently	Thread Group 1-1	text	true		528	114	1	1	http://google.com/	48	0	3
+1570822845074	46	HTTP Request-1	200	OK	Thread Group 1-1	text	true		12590	118	1	1	http://www.google.com/	44	0	2
+1570822850730	73	HTTP Request	200	OK	Thread Group 1-2	text	true		13108	232	1	1	http://www.google.com/	23	0	6
+1570822850730	23	HTTP Request-0	301	Moved Permanently	Thread Group 1-2	text	true		528	114	1	1	http://google.com/	23	0	6
+1570822850754	49	HTTP Request-1	200	OK	Thread Group 1-2	text	true		12580	118	1	1	http://www.google.com/	48	0	2
+1570822850803	68	HTTP Request	200	OK	Thread Group 1-2	text	true		13070	232	1	1	http://www.google.com/	20	0	4
+1570822850803	20	HTTP Request-0	301	Moved Permanently	Thread Group 1-2	text	true		528	114	1	1	http://google.com/	20	0	4
+1570822850823	48	HTTP Request-1	200	OK	Thread Group 1-2	text	true		12542	118	1	1	http://www.google.com/	47	0	2
+1570822856730	73	HTTP Request	200	OK	Thread Group 1-3	text	true		13097	232	1	1	http://www.google.com/	21	0	5
+1570822856730	21	HTTP Request-0	301	Moved Permanently	Thread Group 1-3	text	true		528	114	1	1	http://google.com/	21	0	5
+1570822856752	51	HTTP Request-1	200	OK	Thread Group 1-3	text	true		12569	118	1	1	http://www.google.com/	50	0	3
+1570822856804	66	HTTP Request	200	OK	Thread Group 1-3	text	true		13069	232	1	1	http://www.google.com/	20	0	4
+1570822856804	20	HTTP Request-0	301	Moved Permanently	Thread Group 1-3	text	true		528	114	1	1	http://google.com/	20	0	4
+1570822856824	46	HTTP Request-1	200	OK	Thread Group 1-3	text	true		12541	118	1	1	http://www.google.com/	45	0	3
+1570822862726	72	HTTP Request	200	OK	Thread Group 1-4	text	true		13096	232	1	1	http://www.google.com/	19	0	4
+1570822862726	20	HTTP Request-0	301	Moved Permanently	Thread Group 1-4	text	true		528	114	1	1	http://google.com/	19	0	4
+1570822862746	52	HTTP Request-1	200	OK	Thread Group 1-4	text	true		12568	118	1	1	http://www.google.com/	51	0	2
+1570822862801	71	HTTP Request	200	OK	Thread Group 1-4	text	true		13126	232	1	1	http://www.google.com/	17	0	2
+1570822862801	17	HTTP Request-0	301	Moved Permanently	Thread Group 1-4	text	true		528	114	1	1	http://google.com/	17	0	2
+1570822862819	53	HTTP Request-1	200	OK	Thread Group 1-4	text	true		12598	118	1	1	http://www.google.com/	52	0	3
+1570822868730	71	HTTP Request	200	OK	Thread Group 1-5	text	true		13076	232	1	1	http://www.google.com/	22	0	5
+1570822868730	22	HTTP Request-0	301	Moved Permanently	Thread Group 1-5	text	true		528	114	1	1	http://google.com/	22	0	5
+1570822868754	47	HTTP Request-1	200	OK	Thread Group 1-5	text	true		12548	118	1	1	http://www.google.com/	46	0	3
+1570822868802	77	HTTP Request	200	OK	Thread Group 1-5	text	true		13098	232	1	1	http://www.google.com/	23	0	3
+1570822868802	23	HTTP Request-0	301	Moved Permanently	Thread Group 1-5	text	true		528	114	1	1	http://google.com/	23	0	3
+1570822868825	54	HTTP Request-1	200	OK	Thread Group 1-5	text	true		12570	118	1	1	http://www.google.com/	53	0	3
